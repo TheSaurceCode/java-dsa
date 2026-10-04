@@ -96,7 +96,31 @@ Problems solved from:
 
 ## 📂 Repository Structure
 
-```
+```text
+java-dsa/
+│
+├── .vscode/
+│
+├── bin/
+│
+├── src/
+│   │
+│   ├── arraysinjava/
+│   │   ├── arraylist/
+│   │   ├── arraysortings/
+│   │   ├── basics_array/
+│   │   ├── sorting0ands1s/
+│   │   └── twopointers/
+│   │
+│   ├── basicsofjava/
+│   │
+│   ├── conditionss/
+│   │
+│   ├── loops/
+│   │
+│   └── patternprinting/
+│
+└── README.md
 
 ## 🛠️ Tech Stack
 
