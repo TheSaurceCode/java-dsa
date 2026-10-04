@@ -97,47 +97,6 @@ Problems solved from:
 ## 📂 Repository Structure
 
 ```
-Java-DSA/
-│
-├── Java/
-│   ├── Basics/
-│   ├── OOP/
-│   ├── Collections/
-│   ├── ExceptionHandling/
-│   └── Multithreading/
-│
-├── DSA/
-│   ├── Arrays/
-│   ├── Strings/
-│   ├── LinkedList/
-│   ├── Stack/
-│   ├── Queue/
-│   ├── Trees/
-│   ├── Graphs/
-│   ├── DP/
-│   └── Recursion/
-│
-└── README.md
-```
-
----
-
-## 🚀 Progress
-
-- [ ] Java Basics
-- [ ] Object-Oriented Programming
-- [ ] Collections Framework
-- [ ] Arrays
-- [ ] Strings
-- [ ] Linked Lists
-- [ ] Stack
-- [ ] Queue
-- [ ] Trees
-- [ ] Graphs
-- [ ] Dynamic Programming
-- [ ] Interview Preparation
-
----
 
 ## 🛠️ Tech Stack
 
